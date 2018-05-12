@@ -1,0 +1,29 @@
+_repo: The-Future-of-Islam_17213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blunt, Wilfrid Scawen
+    birthdate: 1840
+    deathdate: 1922
+    gutenberg_agent_id: '7229'
+    url: http://www.gutenberg.org/2009/agents/7229
+    wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Scawen_Blunt
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2005-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- History -- 1517-'
+- !lcsh 'Islam'
+- !lcc 'BP'
+title: The Future of Islam
+url: http://www.gutenberg.org/ebooks/17213
